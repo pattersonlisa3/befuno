@@ -1,0 +1,2 @@
+# befuno
+Daily digest notes
